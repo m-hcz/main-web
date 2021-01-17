@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+  --main-bc-color: #48484a;
+  --main-brite-color: #e5e5e5;
+
+  --mian-font: "Rubik", sans-serif;
+
+  --nav-height: 8vh;
+}
+body {
+  background-color: var(--main-brite-color);
+}
