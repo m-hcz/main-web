@@ -13,3 +13,9 @@
 body {
   background-color: var(--main-brite-color);
 }
+.net {
+  width: 100%;
+  height: 100vh;
+  position: relative;
+  overflow: hidden;
+}
